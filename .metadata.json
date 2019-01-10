@@ -4,11 +4,6 @@
         "hash": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc",
         "links": []
     },
-    "hub.gcode": {
-        "notes": [],
-        "hash": "f377ec725773e601458c2b7c4d9fb415e796d091",
-        "links": []
-    },
     "test5.gcode": {
         "notes": [],
         "hash": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc",
@@ -48,7 +43,6 @@
         "links": [],
         "notes": [],
         "analysis": {
-            "analysisFirstFilamentPrintTime": 42.24157804727656,
             "printingArea": {
                 "maxZ": 84.55000305175781,
                 "maxX": 144.715,
@@ -64,6 +58,7 @@
             },
             "compensatedPrintTime": 13171.679284744409,
             "analysisPending": false,
+            "estimatedPrintTime": 13171.679284744409,
             "analysisPrintTime": 13171.679284744409,
             "analysisLastFilamentPrintTime": 13171.305021221426,
             "firstFilament": 0.00010024890149149,
@@ -961,8 +956,8 @@
                     0
                 ]
             ],
-            "estimatedPrintTime": 13171.679284744409,
             "lastFilament": 0.9999419001062716,
+            "analysisFirstFilamentPrintTime": 42.24157804727656,
             "filament": {
                 "tool0": {
                     "volume": 26.1378723810257,
